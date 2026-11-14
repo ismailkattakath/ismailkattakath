@@ -1,50 +1,50 @@
 ### I build the platform your AI product runs on.
 
 Principal software engineer · applied AI & cloud platforms · Toronto.
-Multi-tenant AI SaaS, inference economics and cloud infrastructure — production systems, not demos. 15+ years shipping end to end.
+16 years shipping production systems end to end — the last two on GenAI inference, retrieval and multi-tenant AI SaaS.
 
-[![Website](https://img.shields.io/badge/Website-ismail.kattakath.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ismail.kattakath.com/)
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ismail.kattakath.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/ismailkattakath)
 [![Book a Call](https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/ismailkattakath/google-meet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismailkattakath-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/ismailkattakath)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-ismailkattakath-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ismailkattakath)
-[![Kaggle](https://img.shields.io/badge/Kaggle-ismailkattakath-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ismailkattakath)
-[![Google Developer](https://img.shields.io/badge/Google_Developer-g.dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/ismailkattakath)
 
 ---
 
-#### What I own for you
+#### What I build
 
 ```mermaid
 block
   columns 1
-  product["<b>Your AI product</b><br/>what your users see"]
+  product["<b>Your AI product</b> · agents, copilots, document AI"]
   runs<["runs on"]>(down)
-  l1["<b>01 · The AI platform beneath the model</b><br/>provider-abstracted inference (LiteLLM gateway)<br/>cost governance with a real kill-switch · RAG observability"]
-  l2["<b>02 · The multi-tenant SaaS backbone</b><br/>tenant isolation you can prove (Cognito)<br/>AI usage metering & billing (Stripe) · Aurora Serverless v2"]
-  l3["<b>03 · The cloud and the release path</b><br/>AWS CDK / Terraform · keyless GitHub OIDC deploys<br/>staging as a required gate · zero-downtime migrations"]
+  l1["<b>01 · Serving & routing</b><br/>multi-GPU vLLM on Kubernetes · LiteLLM gateway<br/>one-switch provider portability (local ↔ cloud)"]
+  l2["<b>02 · Retrieval you can trust</b><br/>pgvector RAG · corrective fallback, fail-closed<br/>embedding-parity gates against silent drift"]
+  l3["<b>03 · Evals, observability, spend</b><br/>CI-gated evals (pure metric + LLM judge)<br/>retrieval alarms · cost ceiling with kill-switch"]
+  l4["<b>04 · Agents in production</b><br/>MCP tooling · human-approval gates · guardrails"]
+  l5["<b>05 · Multi-tenant cloud underneath</b><br/>tenant isolation · CDK / Terraform · OIDC deploys"]
   classDef mine fill:#0969da,stroke:#0550ae,color:#ffffff
+  classDef base fill:#57606a,stroke:#424a53,color:#ffffff
   classDef yours fill:none,stroke:#8c959f,stroke-dasharray:4 3
-  class l1,l2,l3 mine
+  class l1,l2,l3,l4 mine
+  class l5 base
   class product yours
 ```
 
-#### Results from production work
+#### 16 years, same job at growing scale
 
-- **~25% lower cost, ~40% lower latency** — multi-GPU inference serving on vLLM / Kubernetes
-- **99.5% platform uptime** · **100k+ users served** · **80+ app vendors** on pipelines I built
-- Most of this lives in private client repos — the contribution graph below counts it.
+| Years | Role | Proof |
+|---|---|---|
+| 2026 – now | Principal · multi-tenant AI SaaS | tenant isolation, AI spend ceilings, Document AI on AWS |
+| 2024 – 2026 | Principal · GenAI infrastructure | multi-GPU vLLM on Kubernetes: **~25% lower cost, ~40% lower latency** · pipelines serving **80+ app vendors** |
+| 2017 – 2024 | Senior · national digital-health platform | **100k+ users**, **99.5% uptime** · OAuth 2.0 SSO for 25,000+ users, SAML across 5+ partner orgs · zero-downtime AWS migration · deploys 4 h → 20 min |
+| 2010 – 2017 | Engineer → Lead · ERP, school MIS, hospitality | led microservices architecture and sprint delivery · SOAP → REST modernization · engineering standards that cut production incidents **65%** |
 
-#### Open work worth a look
+#### Open work
 
 | Repo | What it shows |
 |---|---|
-| [kattakath/nix-config](https://github.com/kattakath/nix-config) | A whole fleet (Mac, Raspberry Pi server, VMs, devcontainer) declared in one Nix mono-repo — CI gates, IaC (terranix), secrets, observability |
-| [kattakath/skills](https://github.com/kattakath/skills) | Claude Code plugins and skills I build and use daily — agent tooling, guardrails, MCP |
-| [kattakath/.github](https://github.com/kattakath/.github) | A shared CI landing system: one required gate, merge queue, reusable workflows across repos |
-| [ismailkattakath/scrape-harness](https://github.com/ismailkattakath/scrape-harness) | A site-agnostic, approval-gated scraping harness (Playwright / Crawlee, Python, Nix) |
-| [ismailkattakath/agentic-jobseek](https://github.com/ismailkattakath/agentic-jobseek) | An agentic pipeline with an evidence gate: pgvector RAG over git history, every claim backed by a source |
-| [kattakath/ircc-whatsapp-bot](https://github.com/kattakath/ircc-whatsapp-bot) | Corrective RAG (LangGraph + pgvector) answering immigration questions from official sources only |
+| [kattakath/skills](https://github.com/kattakath/skills) | Claude Code plugins and skills — agent tooling, guardrails, MCP |
+| [kattakath/ircc-whatsapp-bot](https://github.com/kattakath/ircc-whatsapp-bot) | Corrective RAG (LangGraph + pgvector) answering only from official sources |
+| [kattakath/nix-config](https://github.com/kattakath/nix-config) | Fleet infrastructure as code — CI gates, terranix, secrets, observability |
+| [kattakath/.github](https://github.com/kattakath/.github) | Shared CI landing system — one required gate, merge queue, reusable workflows |
 
-**Stack:** Python · TypeScript · FastAPI · Next.js · AWS (Lambda, CDK, Cognito, Aurora) · GCP · Kubernetes · vLLM · LiteLLM · pgvector · Nix
-
-Open to principal / staff roles and to contract engagements → **[Book a Call](https://calendly.com/ismailkattakath/google-meet)**
+**Stack:** Python · TypeScript · FastAPI · Next.js · AWS · GCP · Kubernetes · vLLM · LiteLLM · pgvector · Terraform · Nix
