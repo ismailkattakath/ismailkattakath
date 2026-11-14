@@ -14,11 +14,19 @@ Multi-tenant AI SaaS, inference economics and cloud infrastructure — productio
 
 #### What I own for you
 
-| | Mandate | In practice |
-|---|---|---|
-| 01 | **The AI platform beneath the model** | Provider-abstracted inference (LiteLLM gateway), cost governance with a real kill-switch, RAG observability |
-| 02 | **The multi-tenant SaaS backbone** | Tenant isolation you can prove (Cognito), AI usage metering and billing (Stripe), Aurora Serverless v2 |
-| 03 | **The cloud and the release path** | AWS CDK / Terraform, keyless GitHub OIDC deploys, staging as a required gate, zero-downtime migrations |
+```mermaid
+block
+  columns 1
+  product["<b>Your AI product</b><br/>what your users see"]
+  runs<["runs on"]>(down)
+  l1["<b>01 · The AI platform beneath the model</b><br/>provider-abstracted inference (LiteLLM gateway)<br/>cost governance with a real kill-switch · RAG observability"]
+  l2["<b>02 · The multi-tenant SaaS backbone</b><br/>tenant isolation you can prove (Cognito)<br/>AI usage metering & billing (Stripe) · Aurora Serverless v2"]
+  l3["<b>03 · The cloud and the release path</b><br/>AWS CDK / Terraform · keyless GitHub OIDC deploys<br/>staging as a required gate · zero-downtime migrations"]
+  classDef mine fill:#0969da,stroke:#0550ae,color:#ffffff
+  classDef yours fill:none,stroke:#8c959f,stroke-dasharray:4 3
+  class l1,l2,l3 mine
+  class product yours
+```
 
 #### Results from production work
 
