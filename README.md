@@ -3,7 +3,12 @@
 Principal software engineer · applied AI & cloud platforms · Toronto.
 Multi-tenant AI SaaS, inference economics and cloud infrastructure — production systems, not demos. 15+ years shipping end to end.
 
-**[Book a 30-min call](https://ismail.kattakath.com/)** · [LinkedIn](https://www.linkedin.com/in/ismailkattakath) · [Hugging Face](https://huggingface.co/ismailkattakath)
+[![Book a 30-min call](https://img.shields.io/badge/Book_a_30--min_call-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/ismailkattakath/google-meet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismailkattakath-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMi41IiB5PSI4LjUiIHdpZHRoPSI0LjIiIGhlaWdodD0iMTMiLz48Y2lyY2xlIGN4PSI0LjYiIGN5PSI0LjQiIHI9IjIuNCIvPjxwYXRoIGQ9Ik05LjYgOC41aDR2MS44Yy42LTEuMSAyLjEtMi4yIDQuMi0yLjIgNC4zIDAgNS4xIDIuOCA1LjEgNi41djYuOWgtNC4ydi02LjFjMC0xLjUgMC0zLjQtMi4xLTMuNHMtMi40IDEuNi0yLjQgMy4zdjYuMkg5LjZ6Ii8+PC9zdmc+Cg==)](https://www.linkedin.com/in/ismailkattakath)
+[![Website](https://img.shields.io/badge/Website-ismail.kattakath.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ismail.kattakath.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-ismailkattakath-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ismailkattakath)
+[![Kaggle](https://img.shields.io/badge/Kaggle-ismailkattakath-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ismailkattakath)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-g.dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/ismailkattakath)
 
 ---
 
@@ -34,4 +39,4 @@ Multi-tenant AI SaaS, inference economics and cloud infrastructure — productio
 
 **Stack:** Python · TypeScript · FastAPI · Next.js · AWS (Lambda, CDK, Cognito, Aurora) · GCP · Kubernetes · vLLM · LiteLLM · pgvector · Nix
 
-Open to principal / staff roles and to contract engagements → **[ismail.kattakath.com](https://ismail.kattakath.com/)**
+Open to principal / staff roles and to contract engagements → **[book a 30-min call](https://calendly.com/ismailkattakath/google-meet)**
