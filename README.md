@@ -1,4 +1,4 @@
-### I build the platform your AI product runs on.
+# I build the platform your AI product runs on.
 
 Principal software engineer · applied AI & cloud platforms · Toronto.
 16 years shipping production systems end to end — the last two on GenAI inference, retrieval and multi-tenant AI SaaS.
