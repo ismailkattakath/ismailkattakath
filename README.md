@@ -3,7 +3,7 @@
 Principal software engineer · applied AI & cloud platforms · Toronto.
 Multi-tenant AI SaaS, inference economics and cloud infrastructure — production systems, not demos. 15+ years shipping end to end.
 
-[![Book a 30-min call](https://img.shields.io/badge/Book_a_30--min_call-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/ismailkattakath/google-meet)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/ismailkattakath/google-meet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ismailkattakath-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/ismailkattakath)
 [![Website](https://img.shields.io/badge/Website-ismail.kattakath.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ismail.kattakath.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-ismailkattakath-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ismailkattakath)
@@ -39,4 +39,4 @@ Multi-tenant AI SaaS, inference economics and cloud infrastructure — productio
 
 **Stack:** Python · TypeScript · FastAPI · Next.js · AWS (Lambda, CDK, Cognito, Aurora) · GCP · Kubernetes · vLLM · LiteLLM · pgvector · Nix
 
-Open to principal / staff roles and to contract engagements → **[book a 30-min call](https://calendly.com/ismailkattakath/google-meet)**
+Open to principal / staff roles and to contract engagements → **[Book a Call](https://calendly.com/ismailkattakath/google-meet)**
